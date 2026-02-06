@@ -1,0 +1,17 @@
+Location: RiliwanBello_NGIT_Week1_Practical/
+
+Task 1 & 3 Summary: 
+   Created web_basics with subfolders notes, projects, and images.
+   Successfully installed VS Code and created index.html with <h1>Hello World</h1>.
+
+Task 2: Command Line Practice (Windows)
+   1. cd web_basics — Changes directory to the web_basics folder.
+   2. mkdir cli_practice — Creates a new folder named cli_practice.
+   3. type nul > test.txt — Creates an empty file named test.txt.
+   4. rename test.txt myfile.txt — Renames the file.
+   5. dir — Displays all files and folders in the current directory.
+
+Task 4: Observation (Google.com)
+   - Domain: google.com
+   - Protocol: HTTPS
+   - Behind the scenes: The browser looks up the IP via DNS, establishes a connection, and the server sends the HTML to be rendered.
