@@ -1,0 +1,7 @@
+Location: RiliwanBello_NGIT_Week1_SelfReflection/
+
+  - Understanding the fundamentals of computers and operating systems is the foundation of any successful web development career.
+    Since web applications run on servers (which are just specialized computers) and are accessed via various operating systems, 
+    knowing how they manage memory and files is crucial. It allows a developer to troubleshoot issues that aren't just related to code, 
+    such as path errors or permission bugs. Furthermore, understanding the "how" behind the internet—like DNS and the client-server model—helps
+    in building faster and more secure applications. Without these basics, a developer is simply writing code without knowing the environment it lives in. Mastering these building blocks ensures a smoother transition into more complex coding tasks.
